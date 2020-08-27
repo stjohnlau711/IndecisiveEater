@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/IndecisiveEater/static/css/main.b64b58d7.chunk.css",
-    "main.js": "/IndecisiveEater/static/js/main.14d7cb6b.chunk.js",
-    "main.js.map": "/IndecisiveEater/static/js/main.14d7cb6b.chunk.js.map",
+    "main.css": "/IndecisiveEater/static/css/main.63724394.chunk.css",
+    "main.js": "/IndecisiveEater/static/js/main.6a34fae7.chunk.js",
+    "main.js.map": "/IndecisiveEater/static/js/main.6a34fae7.chunk.js.map",
     "runtime-main.js": "/IndecisiveEater/static/js/runtime-main.cfd4ec64.js",
     "runtime-main.js.map": "/IndecisiveEater/static/js/runtime-main.cfd4ec64.js.map",
     "static/js/2.aedb79cc.chunk.js": "/IndecisiveEater/static/js/2.aedb79cc.chunk.js",
     "static/js/2.aedb79cc.chunk.js.map": "/IndecisiveEater/static/js/2.aedb79cc.chunk.js.map",
     "index.html": "/IndecisiveEater/index.html",
-    "precache-manifest.68672be30ed3a2c08772f4d2af7dfac5.js": "/IndecisiveEater/precache-manifest.68672be30ed3a2c08772f4d2af7dfac5.js",
+    "precache-manifest.35581397dd18ca9120a0d05714f190d2.js": "/IndecisiveEater/precache-manifest.35581397dd18ca9120a0d05714f190d2.js",
     "service-worker.js": "/IndecisiveEater/service-worker.js",
-    "static/css/main.b64b58d7.chunk.css.map": "/IndecisiveEater/static/css/main.b64b58d7.chunk.css.map",
+    "static/css/main.63724394.chunk.css.map": "/IndecisiveEater/static/css/main.63724394.chunk.css.map",
     "static/js/2.aedb79cc.chunk.js.LICENSE.txt": "/IndecisiveEater/static/js/2.aedb79cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cfd4ec64.js",
     "static/js/2.aedb79cc.chunk.js",
-    "static/css/main.b64b58d7.chunk.css",
-    "static/js/main.14d7cb6b.chunk.js"
+    "static/css/main.63724394.chunk.css",
+    "static/js/main.6a34fae7.chunk.js"
   ]
 }

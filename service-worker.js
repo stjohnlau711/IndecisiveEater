@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IndecisiveEater/precache-manifest.68672be30ed3a2c08772f4d2af7dfac5.js"
+  "/IndecisiveEater/precache-manifest.35581397dd18ca9120a0d05714f190d2.js"
 );
 
 self.addEventListener('message', (event) => {
