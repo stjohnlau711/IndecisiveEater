@@ -1,0 +1,16 @@
+.BusinessList {
+    display: flex ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 1rem 10%;
+  }
+
+  @media only screen and (max-width: 560px) {
+    .BusinessList {
+      display: flex ;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      margin: 4rem 10%;
+    }
+
+  }

@@ -1,0 +1,110 @@
+.Searchbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #EE9F8C;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25rem;
+  }
+  
+  .Searchbar-fields {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2.88rem;
+  }
+  
+  .Searchbar-fields input {
+    width: 21rem;
+    padding: .66rem 1rem;
+    margin-right: 2.22rem;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: .77rem;
+    font-weight: 500;
+  }
+
+  .Searchbar-fields select {
+    width: 6rem;
+    padding: .66rem 1rem;
+    margin-right: 2.22rem;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: .77rem;
+    font-weight: 500;
+  }
+  
+  .Searchbar-fields input:last-child {
+    margin-right: 0;
+  }
+  
+  .Searchbar-submit {
+    text-align: center;
+  }
+  
+  .Searchbar-submit a {
+    border-radius: 4px;
+    padding: .72rem 1.7rem;
+    background-color: #BAD684;
+    color: #ffffff;
+    font-weight: 600;
+    transition: background-color .5s;
+  }
+  
+  .Searchbar-submit a:hover {
+    cursor: pointer;
+    background-color: #93A96A;
+  }
+
+  .logo-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+  }
+  
+  @media only screen and (max-width: 560px) {
+    .Searchbar-sort-options ul {
+      margin-left: 2rem;
+      margin-right: 2rem;
+    }
+  
+    .Searchbar-fields {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .Searchbar-fields input {
+      margin-right: 0;
+      margin-bottom: .5rem;
+    }
+
+    .Searchbar-fields select {
+      margin-right: 0;
+      margin-bottom: .5rem;
+    }
+
+    .logo-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 0.5rem;
+      width: 10rem;
+      height: 10rem;
+      border-radius: 50%;
+    }
+
+    .Searchbar-submit {
+      margin-top: 0.5rem;
+      margin-bottom: 2rem;
+    }
+    
+    .Searchbar-submit a {
+      border-radius: 4px;
+      padding: .72rem 1.7rem;
+    }
+
+  }
