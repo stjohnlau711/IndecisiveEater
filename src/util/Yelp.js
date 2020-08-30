@@ -1,4 +1,4 @@
-const apiKey = 'gIS2bky6C22GUR0ck0u77cEMP_7N4miNpZgy5bs1uUzHpIUZE_jT4tyMw4w34QCAz8IbAwvuB2vIrSLxSNPaTRyxrZofAztqSwkr2jmRz_IyPHvwnhw-mFurFmo3X3Yx';
+const apiKey = 'your own key here';
 
 const open = true; //checks for open restaurants
 const noOfBusinesses = 50; //max amount of restaurants from yelp API call
