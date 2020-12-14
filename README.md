@@ -1,7 +1,7 @@
 # Indecisive Eater
 
 ## About
-This is mostly a frontend project that consumes the Yelp API. It's a standard React app, and is structured so that each component is in its own separate
+This is an app that consumes the Yelp API and randomizes the results. It's a standard React app, and is structured so that each component is in its own separate
 file (as a way to familiarize myself with good engineering practices). You will find in `src/util` a file named __Randomizer.js__. This is what separates the project from being just a Yelp clone. It randomizes the response from the Yelp API so you get a different response each time. 
 
 ## Search Parameters
